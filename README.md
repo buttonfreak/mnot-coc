@@ -15,6 +15,7 @@
 1. 'Pre-rants' worden niet gewaardeerd. Dat bezorger x een pakketje gaat leveren is nog geen rant.
 1. In #rant is logica niet van toepassing.
 1. Je beroept je niet op regels in de CoC die niet (nog) bestaan.
+1. Je doet je niet voor als iemand anders (bijv. Santa, of een andere MNOT-gebruiker).
 
 ## Discord specifiek
 1. [Voice channels] Schreeuw niet en maak geen harde of vervelende geluiden. Je weet nooit hoe hard het volume 'aan de andere kant' staat.
